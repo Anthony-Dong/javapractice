@@ -11,11 +11,16 @@ public class Person {
     static Integer integer = 10;
     int integers;
 
+    public Person(int integers) {
+        this.integers = integers;
+    }
 
     public Person() {
+        System.out.println("Person");
     }
 
     public void show(){
+
         System.out.println("person");
     }
 

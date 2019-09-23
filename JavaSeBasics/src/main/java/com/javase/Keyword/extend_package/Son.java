@@ -13,10 +13,12 @@ public class Son extends Person {
 
     private Integer pp = 10;
 
-
-    public Son() {
+    public Son(Integer pp) {
         super();
+        System.out.println(pp);
     }
+
+
 
     @Override
     public void show() {
@@ -24,8 +26,10 @@ public class Son extends Person {
     }
 
 
-    public void son(){
+    public  Son(){
         System.out.println("yyyyyyyyyyyyyyyy");
     }
+
+
 
 }

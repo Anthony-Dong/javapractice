@@ -5,7 +5,7 @@ import lombok.Data;
 
 /**
  * ClassName:Person
- * Package:com.javase.day07.lambdaTest
+ * Package:com.javase.java8_new_feature.lambdaTest
  * Description:
  *
  * @date:2019/7/11 22:09

@@ -3,6 +3,8 @@ package com.javase.designpattern.decorate;
 /**
  * 我是觉得 设置为 抽象类 不能直接实现比较好  缓冲层
  *
+ *  装饰角色要有 抽象构建角色的引用
+ *
  * @date:2019/9/7 18:00
  * @author: <a href='mailto:fanhaodong516@qq.com'>Anthony</a>
  */

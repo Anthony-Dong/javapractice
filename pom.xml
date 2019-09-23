@@ -13,6 +13,8 @@
         <module>javaee-study</module>
         <module>java-aop</module>
         <module>javaee-mvc</module>
+        <module>java-nio</module>
+        <module>javase-juc</module>
     </modules>
 
     <packaging>pom</packaging>

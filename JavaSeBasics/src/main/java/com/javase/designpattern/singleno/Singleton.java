@@ -24,6 +24,4 @@ public class Singleton {
         return SingletonInstance.singleton;
     }
 
-
-
 }
