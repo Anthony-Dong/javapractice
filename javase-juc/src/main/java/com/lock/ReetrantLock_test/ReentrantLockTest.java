@@ -13,7 +13,7 @@ public class ReentrantLockTest extends Thread {
 
     @Override
     public void run() {
-        for (int j = 0; j < 100000; j++) {
+        for (int j = 0; j < 1000; j++) {
             lock.lock();
             try {
                 System.out.println(this.getName() + " " + i);

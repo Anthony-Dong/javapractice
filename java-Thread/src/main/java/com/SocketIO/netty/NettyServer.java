@@ -33,7 +33,6 @@ public class NettyServer {
         boot.group(bossNettyGroup, workNettyGroup)
                 .channel(NioServerSocketChannel.class)
                 .childHandler(new ChannelInitializer<SocketChannel>() {
-
                     @Override
                     protected void initChannel(SocketChannel socketChannel) throws Exception {
                         socketChannel.pipeline().addLast(new Handler());

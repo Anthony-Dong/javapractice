@@ -29,8 +29,8 @@ public class Demo {
         for (int port : ports) {
             // 创建 server socket channel
             ServerSocketChannel channel = ServerSocketChannel.open();
-            channel.configureBlocking(false);
 
+            channel.configureBlocking(false);
 
 
             // Retrieves a server socket associated with this channel.

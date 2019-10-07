@@ -22,22 +22,38 @@ public class DoFixedThreadPool {
 
     public static void main(String[] args) {
 
-        ExecutorService executorService = newCachedThreadPool();
+//        ExecutorService executorService = newCachedThreadPool();
+//
+//
+//
+//        ExecutorService executorService1 = newSingleThreadExecutor();
+//
+//
+//
+//        ExecutorService executorService2 = Executors.newFixedThreadPool(10);
+//
+//        ScheduledExecutorService scheduledExecutorService = Executors.newScheduledThreadPool(10);
+//
+//
+//        ExecutorService newWorkStealingPool = Executors.newWorkStealingPool();
+
+//        ThreadPoolExecutor threadPoolExecutor = new ThreadPoolExecutor();
+
+        System.out.println(get(1));
+
+    }
 
 
-
-        ExecutorService executorService1 = newSingleThreadExecutor();
-
+    public static int get(int s){
 
 
-        ExecutorService executorService2 = Executors.newFixedThreadPool(10);
-
-        ScheduledExecutorService scheduledExecutorService = Executors.newScheduledThreadPool(10);
-
-
-        ExecutorService newWorkStealingPool = Executors.newWorkStealingPool();
-
-        ThreadPoolExecutor threadPoolExecutor = new ThreadPoolExecutor();
-
+        while (s < 10) {
+            try {
+                s++;
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+        return s;
     }
 }
