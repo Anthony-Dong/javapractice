@@ -1,7 +1,7 @@
 package com.javase.day11.reflect;
 
 /**
- * ClassName:Demo
+ * ClassName:demos
  * Package:com.javase.day11.reflect
  * Description:
  *

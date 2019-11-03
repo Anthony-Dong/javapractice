@@ -1,7 +1,7 @@
 package com.javase.Keyword.collection.map_study.map;
 
 /**
- * ClassName:Demo
+ * ClassName:demos
  * Package:com.javase.Keyword.collection.map_study.map
  * Description:
  *

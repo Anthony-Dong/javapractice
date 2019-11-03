@@ -14,6 +14,18 @@ public class TestFutureTask {
     public static void main(String[] args) {
 
         ExecutorService executor = Executors.newSingleThreadExecutor();
+        FutureTask<String> task1 = new FutureTask<>(new Runnable() {
+            @Override
+            public void run() {
+
+            }
+        }, "aaaaaaaaaaaaa");
+
+
+
+
+
+
         FutureTask<String> task = new FutureTask<>(new Callable<String>() {
             @Override
             public String call() throws Exception {

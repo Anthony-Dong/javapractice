@@ -19,15 +19,19 @@ public class BufferTest {
         // 创建一个 buffer对象 ,设置其大小为 50
         IntBuffer buffer = IntBuffer.allocate(20);
         // 往 buffer中写入数据
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 30; i++) {
             buffer.put(new SecureRandom().nextInt(10));
         }
+
+
         // 进行翻转 ,如果不使用这个 会发现什么 ,---> 其实这个作用就是让
-        buffer.flip();
+
+
+
 
         // 读  remaining是剩余的意思
         while (buffer.remaining()>0) {
-            System.out.println(buffer.get());
+            System.out.printf("%s\t",buffer.get());
         }
     }
 

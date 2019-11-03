@@ -54,7 +54,7 @@ public class Demo  extends RecursiveTask<Long> {
         //ForkJoin实现
         long l = System.currentTimeMillis();
         ForkJoinPool forkJoinPool = new ForkJoinPool();//实现ForkJoin 就必须有ForkJoinPool的支持
-        ForkJoinTask<Long> task = new Demo(0L,10000000000L);//参数为起始值与结束值
+        ForkJoinTask<Long> task = new demos(0L,10000000000L);//参数为起始值与结束值
         Long invoke = forkJoinPool.invoke(task);
         long l1 = System.currentTimeMillis();
         System.out.println("invoke = " + invoke+"  time: " + (l1-l));

@@ -16,6 +16,7 @@ public class TestFuture {
 
         ExecutorService executor = Executors.newFixedThreadPool(10);
 
+
         Future<String> future = executor.submit(new Callable<String>() {
             @Override
             public String call() throws Exception {
@@ -24,7 +25,9 @@ public class TestFuture {
             }
         });
 
+
         System.out.println(Thread.currentThread().getName() + "   hello world");
+
 
         try {
             String s = future.get(2, TimeUnit.SECONDS);

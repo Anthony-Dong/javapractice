@@ -3,7 +3,7 @@ package com.javase.day06.array;
 import java.util.Date;
 
 /**
- * ClassName:Demo
+ * ClassName:demos
  * Package:com.javase.day06.array
  * Description:
  *

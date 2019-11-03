@@ -1,6 +1,7 @@
 package com.javase.package_info;
 
 
+import java.util.HashSet;
 
 /**
  * package_info的作用
@@ -13,18 +14,18 @@ public class Demo {
 
 
     public static void main(String[] args) {
-        Package p = Package.getPackage("com.javase.package_info");
-        MyAnnotation annotation = p.getAnnotation(MyAnnotation.class);
-        String value = annotation.value();
-        System.out.println("value = " + value);
-        System.out.println("p.getName() = " + p.getName());
+        String a = "a";
+        String b = new String("a");
+
+        HashSet<String> objects = new HashSet<>();
 
 
-        PackageInfo packageInfo = new PackageInfo();
-        packageInfo.common();
+        objects.add(a);
+        objects.add(b);
 
-        System.out.println("Constant.value = " + Constant.value);
+        System.out.println(objects.size());
 
-        System.out.println("Enumeration.CONSTANT = " + Enumeration.CONSTANT);
+        System.out.println(a==b);
+
     }
 }

@@ -8,7 +8,7 @@ import java.io.StringWriter;
 import java.util.ArrayList;
 
 /**
- * ClassName:Demo
+ * ClassName:demos
  * Package:com.javase.day07.syntactic_sugar.try_with_resources
  * Description:
  *

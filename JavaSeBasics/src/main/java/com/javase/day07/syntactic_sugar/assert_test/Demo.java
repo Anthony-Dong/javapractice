@@ -7,7 +7,7 @@ import java.util.*;
 import org.springframework.util.CollectionUtils;
 
 /**
- * ClassName:Demo
+ * ClassName:demos
  * Package:com.javase.day07.test.demo01
  * Description:
  *

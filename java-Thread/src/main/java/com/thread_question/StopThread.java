@@ -1,5 +1,7 @@
 package com.thread_question;
 
+import java.util.concurrent.locks.ReentrantLock;
+
 /**
  * 怎么停止一个进程
  *
@@ -13,30 +15,33 @@ package com.thread_question;
 public class StopThread {
 
     public static void main(String[] args) throws InterruptedException {
+        ReentrantLock lock = new ReentrantLock();
 
-        Thread thread = new Thread(() -> {
-            System.out.println(Thread.currentThread().getState());
-            if (!Thread.currentThread().isInterrupted()) {
+        Thread thread = new Thread() {
+            @Override
+            public void run() {
 
-                System.out.println("1111111111");
+                System.out.println(Thread.currentThread().getState());
+                try {
+                    Thread.sleep(5000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+                System.out.println("------------");
+                System.out.println("此处代码不会执行");
             }
-
-        });
-
+        };
+        // 启动线程
         thread.start();
-        System.out.println(thread.getState());
-        System.out.println(thread.isAlive());
-
-        thread.interrupt();
-        System.out.println(thread.getState());
-
-        System.out.println(thread.isAlive());
-        thread.join();
-        System.out.println(thread.getState());
-
-        System.out.println(thread.isAlive());
+//        thread.join();
+        // 主线程休眠0.1秒
+        System.out.println("-----------主线程");
+        Thread.sleep(100);
+        // 子线程停止
+        System.out.println("thread.getState() = " + thread.getState());
 
     }
+
 
     private static void method01(){
         StopThreadClass stopThreadClass = new StopThreadClass();

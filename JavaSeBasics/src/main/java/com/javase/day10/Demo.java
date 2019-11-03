@@ -7,7 +7,7 @@ import java.util.List;
 import static java.lang.Integer.parseInt;
 
 /**
- * ClassName:Demo
+ * ClassName:demos
  * Package:com.javase.day10
  * Description:
  *

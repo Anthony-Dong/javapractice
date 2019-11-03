@@ -9,7 +9,6 @@ package com.thread_question;
 
 public class ThreadCreationQuestion {
 
-
     public static void main(String[] args) {
 
         Thread thread = new Thread(() -> {

@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.util.ServiceLoader;
 
 /**
- * ClassName:Demo
+ * ClassName:demos
  * Package:com.javase.day11
  * Description:
  *
@@ -24,7 +24,7 @@ public class Demo {
 
 //        Properties properties = new Properties();
 
-//        InputStream resourceAsStream = Demo.class.getResourceAsStream("db.properties");
+//        InputStream resourceAsStream = demos.class.getResourceAsStream("db.properties");
 //        properties.load(resourceAsStream);
 
 //        Object url = properties.get("url");

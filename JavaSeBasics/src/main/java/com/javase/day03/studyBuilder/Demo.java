@@ -1,7 +1,7 @@
 package com.javase.day03.studyBuilder;
 
 /**
- * ClassName:Demo
+ * ClassName:demos
  * Package:com.javase.day03.studyBuilder
  * Description:
  *

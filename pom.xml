@@ -10,12 +10,12 @@
     <modules>
         <module>JavaSeBasics</module>
         <module>java-Thread</module>
-        <module>javaee-study</module>
         <module>java-aop</module>
         <module>javaee-mvc</module>
         <module>java-nio</module>
         <module>javase-juc</module>
         <module>java-arithmetic</module>
+        <module>java-jvm-optimize</module>
     </modules>
 
     <packaging>pom</packaging>

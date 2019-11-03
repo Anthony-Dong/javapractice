@@ -1,7 +1,7 @@
 package com.ThreadBase.ThreePerson;
 
 /**
- * ClassName:Demo
+ * ClassName:demos
  * Package:com.ThreadBase.ThreePerson
  * Description:
  *
