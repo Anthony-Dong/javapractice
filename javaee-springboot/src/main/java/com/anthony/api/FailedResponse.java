@@ -11,6 +11,7 @@ import lombok.EqualsAndHashCode;
  * @date:2019/9/20 20:12
  * @author: <a href='mailto:fanhaodong516@qq.com'>Anthony</a>
  */
+
 @EqualsAndHashCode(callSuper = false)
 @Data
 public class FailedResponse  extends ApiResponse{
@@ -43,7 +44,8 @@ public class FailedResponse  extends ApiResponse{
     private Long timeStamp;
 
 
-    private FailedResponse(Integer httpStatus, Integer errorCode, String msg, String exception, Boolean isShow) {
+    //
+    public FailedResponse(Integer httpStatus, Integer errorCode, String msg, String exception, Boolean isShow) {
         this.status = httpStatus;
         this.errorCode = errorCode;
         this.msg = msg;
@@ -51,13 +53,4 @@ public class FailedResponse  extends ApiResponse{
         this.isShow = isShow;
         this.timeStamp = System.currentTimeMillis();
     }
-
-    private FailedResponse(){
-
-    }
-
-    public static FailedResponse getInstance(Integer httpStatus, Integer errorCode, String msg, String exception, Boolean isShow){
-        return new FailedResponse(httpStatus, errorCode, msg, exception, isShow);
-    }
-
 }

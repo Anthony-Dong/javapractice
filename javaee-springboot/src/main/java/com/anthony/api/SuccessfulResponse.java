@@ -33,35 +33,8 @@ public class SuccessfulResponse<T>  extends ApiResponse<T>{
     private T result;
 
 
-    private SuccessfulResponse(Integer status, T result) {
-
+    public SuccessfulResponse(Integer status, T result) {
         this.status = status;
         this.result = result;
-    }
-
-    private SuccessfulResponse(){
-
-    }
-
-    private static final SuccessfulResponse SUCCESSFUL_RESPONSE = new SuccessfulResponse();
-
-
-
-/*    private static class SingletonInstance{
-
-
-          private static final SuccessfulResponse singleton = new SuccessfulResponse();
-    }
-
-    public static SuccessfulResponse getInstance(){
-             return SingletonInstance.singleton;
-    }*/
-
-    public static <T> SuccessfulResponse<T> getInstance(Integer status, T result){
-
-        SUCCESSFUL_RESPONSE.setResult(result);
-
-        SUCCESSFUL_RESPONSE.setStatus(status);
-        return (SuccessfulResponse<T>)SUCCESSFUL_RESPONSE;
     }
 }

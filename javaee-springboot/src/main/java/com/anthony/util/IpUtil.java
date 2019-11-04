@@ -3,9 +3,9 @@ package com.anthony.util;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * ClassName:IpUtil
- * Package:com.blogs.com.blogs.common.ip
- * Description:
+ *
+ * 获取 IP 地址 的 小工具包  , 输入request 就可以 了
+ *
  *
  * @date:2019/8/13 16:50
  * @author: 574986060@qq.com

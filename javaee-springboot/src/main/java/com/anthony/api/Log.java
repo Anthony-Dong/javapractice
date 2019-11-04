@@ -28,7 +28,7 @@ import lombok.Getter;
 import lombok.ToString;
 
 /**
- * app请求日志详情
+ * app请求日志详情  ,  还么做日志系统
  * @author Caratacus
  */
 @Getter

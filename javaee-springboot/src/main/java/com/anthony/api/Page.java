@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * 分页结果 ,统一的结果 不管你使用的插件是哪个
+ * 分页结果 ,统一的结果
  *
  * @date:2019/9/20 22:09
  * @author: <a href='mailto:fanhaodong516@qq.com'>Anthony</a>

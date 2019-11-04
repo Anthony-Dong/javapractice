@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * TODO
+ *
  *
  * @date:2019/9/20 20:27
  * @author: <a href='mailto:fanhaodong516@qq.com'>Anthony</a>
@@ -53,7 +53,6 @@ public class BasicController {
     public  ApiResponse<Void> success(HttpStatus status){
         return ApiResponse.<Void>success(response, status);
     }
-
 
     /**
      * 自定义状态码 和 返回结果的

@@ -29,8 +29,9 @@ public class ApiResponse<T>  implements Serializable {
     public static <T> ApiResponse<T> success(HttpServletResponse response, HttpStatus status, T result) {
 
         response.setStatus(status.value());
-        return SuccessfulResponse.<T>getInstance(status.value(), result);
+        return new SuccessfulResponse<>(status.value(), result);
     }
+
 
     /**
      * 无返回结果的 有状态码
@@ -42,6 +43,7 @@ public class ApiResponse<T>  implements Serializable {
         response.setStatus(status.value());
         return success(response, status, null);
     }
+
 
 
     /**
@@ -59,9 +61,17 @@ public class ApiResponse<T>  implements Serializable {
     }
 
 
-
+    /**
+     * 失败
+     * @param status
+     * @param errorCode
+     * @param msg
+     * @param exception
+     * @param isShow
+     * @return
+     */
     public static ApiResponse failed(Integer status, Integer errorCode, String msg, String exception, Boolean isShow){
-        return FailedResponse.getInstance(status, errorCode, msg, exception, isShow);
+        return new FailedResponse(status, errorCode, msg, exception, isShow);
     }
 
 }

@@ -3,9 +3,10 @@ package com.anthony.exception;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * 业务异常枚举
+ * 异常枚举类 ,可以拓展
  *
- * @author Caratacus
+ * @date:2019/9/20 21:52
+ * @author: <a href='mailto:fanhaodong516@qq.com'>Anthony</a>
  */
 
 public enum ErrorCodeEnum {
