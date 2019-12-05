@@ -93,7 +93,7 @@ public class Demo {
     public static int switchStringTest(String s) {
         switch (s) {
             default:
-                System.out.println("Test");
+                System.out.println("TestDo");
                 break;
             case "BB":  // BB and Aa have the same hashcode.
                 return 12;

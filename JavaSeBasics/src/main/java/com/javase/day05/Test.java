@@ -1,7 +1,7 @@
 package com.javase.day05;
 
 /**
- * ClassName:Test
+ * ClassName:TestDo
  * Package:com.javase.day05
  * Description:
  *

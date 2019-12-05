@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 /**
  * ClassName:JavaSerialize
- * Package:com.javase.day11.demo
+ * Package:com.javase.day11.com.demo
  * Description:
  *
  * @date:2019/8/8 11:30

@@ -1,0 +1,1974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="javaee-mvc:war" />
+      <artifact name="javaee-mvc:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/Executor.java" description="*/" line="138" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="619d20fa-ade4-453a-8e3f-888d442cfcb0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Development-JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-SPI/JAVA-SPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-SPI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-SPI/src/main/java/com/example/spi/AdvancedEchoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-SPI/src/main/java/com/example/spi/EchoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-SPI/src/main/java/com/example/spi/FinalEchoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-SPI/src/main/java/com/example/spi/RunDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA-SPI/src/main/resources/META-INF/services/com.example.spi.EchoService" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Common/src/main/java/com/date/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Common/src/main/java/com/net/HttpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Common/src/main/java/com/net/IpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/JavaSeBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/Test_Field/TestField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/annotation_test/test/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/annotation_test/test/Child2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/annotation_test/test/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/autobox_and_unbox/TestInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/break_Continue_return/TestDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/break_Continue_return/TryAndFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/constant_question/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/constructor/TestConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/listener_design_pattern/CoreEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/listener_design_pattern/CoreEventObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/listener_design_pattern/EventPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/listener_design_pattern/EventSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/listener_design_pattern/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/listener_design_pattern/TestEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/observer/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/observer/MyObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/observer/MyObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/exception/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/exception/TestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/exception/impl/IMyInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/exception/impl/MyInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/generic/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/spi/TestSPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/valueof_parse/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/valueof_parse/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-Thread/java-Thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-Thread/src/main/java/com/future_question/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-Thread/src/main/java/com/stop_thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-Thread/src/main/java/com/thread_factory/MyThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-Thread/src/main/java/com/threadstatus/StopThreadByException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-Thread/src/main/java/com/threadstatus/StopThreadWithFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-Thread/src/main/java/com/threadstatus/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-aop/java-aop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-aop/src/main/java/com/dynamic_class/GetMethodArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/java-arithmetic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/AbstractLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/CounterLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/GuavaRateLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/LeakyBucketLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/RollingWindowFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/TokenBucketLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/demo/Bucket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/FilterChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/ServletRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/ServletResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/link_node/DoubleLinkedList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/link_node/LinkedList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/link_node/LinkedNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/sort/BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/sort/BucketSortScala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/sort/HeapifySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/stack/TestJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/stack/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/string/StringToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/tree/TreeNode.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jvm-optimize/java-jvm-optimize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-nio/java-nio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaee-mvc/javaee-mvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase-juc/javase-juc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase-juc/src/main/java/com/executors/TestCompletableFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase-juc/src/main/java/com/executors/TestComputedExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase-juc/src/main/java/com/scheduledThreadPoolExecutor/CustomScheduledExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase-juc/src/main/java/com/scheduledThreadPoolExecutor/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase-juc/src/main/java/com/scheduledThreadPoolExecutor/TestScheduledThreadPoolExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-template/src/main/java/com/anthony/web/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/annotation_test/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/annotation_test/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/annotation_test/MyInheritedClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/annotation_test/MyInheritedClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/day05/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/day05/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/day07/syntactic_sugar/assert_test/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/day07/syntactic_sugar/assert_test/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/day11/demo/JavaSerialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/day11/demo/JavaSerialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/adapter/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/adapter/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/lombox/study/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/lombox/study/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSeBasics/target/classes/com/javase/annotation_test/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSeBasics/target/classes/com/javase/annotation_test/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSeBasics/target/classes/com/javase/annotation_test/MyInheritedClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSeBasics/target/classes/com/javase/annotation_test/MyInheritedClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSeBasics/target/classes/com/javase/day07/syntactic_sugar/assert_test/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSeBasics/target/classes/com/javase/day07/syntactic_sugar/assert_test/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/src/main/java/com/SocketIO/netty/NettyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-Thread/src/main/java/com/SocketIO/netty/NettyClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/src/main/java/com/SocketIO/netty/NettyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-Thread/src/main/java/com/SocketIO/netty/NettyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/src/main/java/com/future_question/TestFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-Thread/src/main/java/com/future_question/TestFuture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/src/main/java/com/future_question/TestFutureTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-Thread/src/main/java/com/future_question/TestFutureTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/src/main/java/com/threadstatus/TestThreadStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-Thread/src/main/java/com/threadstatus/TestThreadStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/target/classes/com/SocketIO/netty/NettyClient$ClientHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/target/classes/com/SocketIO/netty/NettyClient$ClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-Thread/target/classes/com/SocketIO/netty/NettyClient$ClientHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/target/classes/com/SocketIO/netty/NettyServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-Thread/target/classes/com/SocketIO/netty/NettyServer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/target/classes/com/SocketIO/netty/NettyServer$Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-Thread/target/classes/com/SocketIO/netty/NettyServer$Handler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/target/classes/com/SocketIO/netty/NettyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-Thread/target/classes/com/SocketIO/netty/NettyServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/target/classes/com/future_question/CallbackCustomizer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/target/classes/com/future_question/CallbackCustomizer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/target/classes/com/future_question/CallbackCustomizer$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/target/classes/com/future_question/CallbackCustomizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/target/classes/com/future_question/MyFutureTask$MyEventListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/target/classes/com/future_question/MyFutureTask$Myeventobject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-Thread/target/classes/com/future_question/MyFutureTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-aop/src/main/java/com/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-aop/src/main/java/com/proxy/DynamicProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-aop/src/main/java/com/proxy/DynamicProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-aop/src/main/java/com/proxy/IRoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-aop/src/main/java/com/proxy/IRoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-aop/src/main/java/com/proxy/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-aop/src/main/java/com/proxy/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-aop/target/classes/com/Demo$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-aop/target/classes/com/Demo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-aop/target/classes/com/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-aop/target/classes/com/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-aop/target/classes/com/HelloWorldImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-aop/target/classes/com/proxy/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-aop/target/classes/com/proxy/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-aop/target/classes/com/proxy/DynamicProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-aop/target/classes/com/proxy/DynamicProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-aop/target/classes/com/proxy/IRoleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-aop/target/classes/com/proxy/IRoleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-aop/target/classes/com/proxy/RoleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-aop/target/classes/com/proxy/RoleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-arithmetic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-arithmetic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/top_k/TestTopK02.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/top_k/TopKHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/top_k/TestTopk01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/top_k/TopKBubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-arithmetic/target/classes/com/top_k/TestTopK02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-arithmetic/target/classes/com/top_k/TestTopk01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-mvc/src/main/java/com/demo/annotation/RequestMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaee-mvc/src/main/java/com/demo/annotation/RequestMapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-mvc/src/main/java/com/demo/config/ComponentScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaee-mvc/src/main/java/com/demo/config/ComponentScan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-mvc/src/main/java/com/demo/config/InternalResourceViewResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaee-mvc/src/main/java/com/demo/config/InternalResourceViewResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-mvc/src/main/java/com/demo/config/RequestMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaee-mvc/src/main/java/com/demo/config/RequestMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-mvc/src/main/java/com/demo/controller/MyMvcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaee-mvc/src/main/java/com/demo/controller/MyMvcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-mvc/src/main/java/com/demo/core/dispatcherServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaee-mvc/src/main/java/com/demo/core/dispatcherServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-mvc/src/test/java/com/demo/test/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaee-mvc/src/test/java/com/demo/test/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/SpringbootApplicationBootStrap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/api/ApiLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/api/ApiResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/api/FailedResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/api/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/api/Page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/api/SuccessfulResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/core/BasicController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/core/LogAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/exception/APIException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/exception/ErrorCodeEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/exception/HandlerException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/util/IpUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/util/JsonUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/util/TypeUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/web/AsyncController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/java/com/anthony/web/SuccessOrFailureController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-springboot/src/test/java/com/anthony/JavaeeSpringbootApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-study/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-study/src/main/java/com/javaee/redis/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-study/src/main/java/com/javaee/redis/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaee-study/src/main/java/com/javaee/redis/demos/TestScaner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase-juc/src/main/java/com/future/MyFutureTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase-juc/src/main/java/com/future/MyFutureTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase-juc/src/main/java/com/future/TestMyFutureTaskDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase-juc/src/main/java/com/future/TestMyFutureTaskDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase-juc/target/classes/com/future/MyFutureTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase-juc/target/classes/com/future/MyFutureTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase-juc/target/classes/com/future/TestMyFutureTaskDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase-juc/target/classes/com/future/TestMyFutureTaskDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase-juc/target/classes/com/future/TestMyFutureTaskDemo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase-juc/target/classes/com/future/TestMyFutureTaskDemo$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase-juc/target/classes/com/future/TestMyFutureTaskDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase-juc/target/classes/com/future/TestMyFutureTaskDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modify.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework/src/main/java/com/spring/springframework/SpringFrameworkApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework/src/main/java/com/spring/springframework/service/TestService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework/src/main/java/com/spring/springframework/web/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework/src/main/java/com/spring/test/annotation/TestNotNullAndNoNullAndNullable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-framework/src/test/java/com/spring/springframework/SpringFrameworkApplicationTests.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/JavaSeBasics/target/" />
+    <ignored path="$PROJECT_DIR$/java-Thread/target/" />
+    <ignored path="$PROJECT_DIR$/javaee-study/target/" />
+    <ignored path="$PROJECT_DIR$/java-aop/target/" />
+    <ignored path="$PROJECT_DIR$/javaee-mvc/target/" />
+    <ignored path="$PROJECT_DIR$/java-nio/target/" />
+    <ignored path="$PROJECT_DIR$/javaee-springboot/target/" />
+    <ignored path="$PROJECT_DIR$/javase-juc/target/" />
+    <ignored path="$PROJECT_DIR$/spring-framework/target/" />
+    <ignored path="$PROJECT_DIR$/java-arithmetic/target/" />
+    <ignored path="$PROJECT_DIR$/java-jvm-optimize/target/" />
+    <ignored path="$PROJECT_DIR$/JAVA-SPI/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-template/target/" />
+    <ignored path="$PROJECT_DIR$/Java-Common/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DevelopmentJAVA">
+      <favorite_root url="file://$PROJECT_DIR$/javaee-study/src/main/java/com/javaee/redis" module="javaee-study" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/javaee-study/src/main/java/com/javaee/redis/demos" module="javaee-study" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/javaee-study/src/main/java/com/javaee/redis/demos/TestScaner.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/javaee-study/src/main/java/com/javaee/redis/Demo.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+      <favorite_root url="com.top_k.TestTopk01" module="java-arithmetic" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/CounterLimiter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="38" column="22" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/LeakyBucketLimiter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/GuavaRateLimiter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/TokenBucketLimiter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/ServletRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="32" />
+              <folding>
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/ServletResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/RollingWindowFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/demo/Bucket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/AbstractLimiter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Singleton" />
+        <option value="package-info" />
+        <option value="AnnotationType" />
+        <option value="Jsp File" />
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getDefaultUncaughtExceptionHandler</find>
+      <find>modify</find>
+      <find>nodify</find>
+      <find>notify</find>
+      <find>toArray</find>
+      <find>Arrays.copyOf</find>
+      <find>System.arraycopy</find>
+      <find>set</find>
+      <find>Hashtable</find>
+      <find>synchronized</find>
+      <find>kmp</find>
+      <find>2</find>
+      <find>afterNodeAccess</find>
+      <find>removeNode</find>
+      <find>doDispatch</find>
+      <find>Controller</find>
+      <find>iao</find>
+      <find>~validOps</find>
+      <find>CrownException</find>
+      <find>TREEIFY_THRESHOLD</find>
+      <find>DEFAULT_INITIAL_CAPACITY</find>
+      <find>lock</find>
+      <find>waiters</find>
+      <find>permit</find>
+      <find>TraceClassLoading</find>
+      <find>println</find>
+      <find>String fullName = PREFIX + service.getName();</find>
+      <find>Annotation</find>
+      <find>IllegalArgumentException</find>
+      <find>i</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/link_node/LinkedNode.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/sort/BucketSort.scala" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/sort/BucketSortScala.scala" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/sort/BucketSort.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/scala/Test.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/scala/SwingType.scala" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/scala/swimming.scala" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/scala/AminalType.scala" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/scala/Colle.scala" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/stack_test/TestStack.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/stack_test/TestJoin.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/sort/HeapifySort.java" />
+        <option value="$PROJECT_DIR$/java-aop/src/main/java/com/proxy/RoleService.java" />
+        <option value="$PROJECT_DIR$/java-aop/src/main/java/com/proxy/IRoleService.java" />
+        <option value="$PROJECT_DIR$/java-aop/src/main/java/com/proxy/DynamicProxy.java" />
+        <option value="$PROJECT_DIR$/java-Thread/src/main/java/com/future_question/Test.java" />
+        <option value="$PROJECT_DIR$/java-Thread/src/main/java/com/future_question/TestFutureTask.java" />
+        <option value="$PROJECT_DIR$/javase-juc/src/main/java/com/future/TestMyFutureTaskDemo.java" />
+        <option value="$PROJECT_DIR$/javase-juc/src/main/java/com/future/MyFutureTask.java" />
+        <option value="$PROJECT_DIR$/java-Thread/src/main/java/com/future_question/TestFuture.java" />
+        <option value="$PROJECT_DIR$/javase-juc/src/main/java/com/executors/TestComputedExecutor.java" />
+        <option value="$PROJECT_DIR$/javase-juc/src/main/java/com/executors/TestCompletableFuture.java" />
+        <option value="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/spi/TestSp.java" />
+        <option value="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/spi/TestSPI.java" />
+        <option value="$PROJECT_DIR$/Java-Common/src/main/java/com/net/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/observer/Observer.java" />
+        <option value="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/observer/MyObservable.java" />
+        <option value="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/observer/MyObserver.java" />
+        <option value="$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/design_pattern/observer/Demo.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/tree/TreeNode.scala" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/top_k/TopKBubble.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/stack/TestJoin.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/HttpServletRequest.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/FilterChain.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/ServletRequest.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/CounterLimit.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/AbstractLimit.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/pom.xml" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/GuavaRateLimiter.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/AbstractLimiter.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/FunnelRateLimiter.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/demo/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/demo/Bucket.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/Filter.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/CounterLimiter.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/RollingWindowFilter.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/Demo.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/LeakyBucketLimiter.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/GuavaRateLimiter.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/TokenBucketLimiter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\12986\.m2\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\包\apache-maven-3.3.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8.0_221" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="205" />
+    <option name="y" value="280" />
+    <option name="width" value="1245" />
+    <option name="height" value="875" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DevelopmentJAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DevelopmentJAVA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DevelopmentJAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DevelopmentJAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSeBasics" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="CatdeaLogs" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575524839741" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../alibaba-package/adaptive-loadbalance-master-154377df0a8f753f2ea462ec15a6f76f882691bc" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javase.day02" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.javase.day02" />
+      <recent name="com.javase.day01.abstractAndInterface" />
+      <recent name="com.javase.day01.charcode" />
+      <recent name="com.javase.day01.BitwiseANDBitwiseOR" />
+      <recent name="com.javase.day01" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.top_k" />
+      <recent name="com.javase.annotation_test.test" />
+      <recent name="com.anthony.exception" />
+      <recent name="com.anthony.util" />
+      <recent name="com.nio.start" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\代码库\javase学习\DevelopmentJAVA\JavaSeBasics\src\main\java\com\javase\design_pattern" />
+      <recent name="D:\代码库\javase学习\DevelopmentJAVA\JAVA-SPI\src\main\resources" />
+      <recent name="D:\代码库\javase学习\DevelopmentJAVA\javaee-springboot\src\main\resources" />
+      <recent name="D:\代码库\javase学习\DevelopmentJAVA\javaee-springboot\src\main\java\com\anthony\util" />
+      <recent name="D:\代码库\javase学习\DevelopmentJAVA\javaee-mvc\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\代码库\javase学习\DevelopmentJAVA\java-nio" />
+      <recent name="D:\代码库\javase学习\DevelopmentJAVA\java-nio\src\main\resources" />
+      <recent name="D:\代码库\javase学习\DevelopmentJAVA\java-nio\src\main" />
+      <recent name="D:\代码库\javase学习\DevelopmentJAVA\JavaSeBasics\src\main\resources\META-INF\services" />
+      <recent name="D:\代码库\javase学习\DevelopmentJAVA\JavaSeBasics\src\main\java\com\javase\day11" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Demo.test">
+    <configuration name="Bucket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.limitflow.demo.Bucket" />
+      <module name="java-arithmetic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.limitflow.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunnelRateLimiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.limitflow.FunnelRateLimiter" />
+      <module name="java-arithmetic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.limitflow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeakyBucketLimiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.limitflow.LeakyBucketLimiter" />
+      <module name="java-arithmetic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.limitflow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TokenBucketLimiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.limitflow.TokenBucketLimiter" />
+      <module name="java-arithmetic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.limitflow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TraceClassLoading" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jvm.trace_class_load.TraceClassLoading" />
+      <module name="java-jvm-optimize" />
+      <option name="VM_PARAMETERS" value="-XX:+TraceClassLoading -XX:+PrintVMOptions -XX:+TraceClassUnloading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jvm.trace_class_load.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-arithmetic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.limitflow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.limitflow" />
+      <option name="MAIN_CLASS_NAME" value="com.limitflow.Demo" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaeeSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-template" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.anthony.JavaeeSpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringFrameworkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-framework" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.springframework.SpringFrameworkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.20" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="update-resources" />
+      <deployment>
+        <artifact name="javaee-mvc:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_20_DevelopmentJAVA" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="10206" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="javaee-mvc:war exploded" />
+          <artifact name="javaee-mvc:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.20" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="update-resources" />
+      <deployment>
+        <artifact name="javaee-mvc:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_DevelopmentJAVA" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="10206" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="javaee-mvc:war exploded" />
+          <artifact name="javaee-mvc:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TraceClassLoading" />
+      <item itemvalue="Application.LeakyBucketLimiter" />
+      <item itemvalue="Application.FunnelRateLimiter" />
+      <item itemvalue="Application.Bucket" />
+      <item itemvalue="Application.TokenBucketLimiter" />
+      <item itemvalue="JUnit.Demo.test" />
+      <item itemvalue="Spring Boot.JavaeeSpringbootApplication" />
+      <item itemvalue="Spring Boot.SpringFrameworkApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.20" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Demo.test" />
+        <item itemvalue="Application.TokenBucketLimiter" />
+        <item itemvalue="Application.Bucket" />
+        <item itemvalue="Application.LeakyBucketLimiter" />
+        <item itemvalue="Application.FunnelRateLimiter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="autoCreateRunConfiguration" value="false" />
+    <option name="reformatAfterCreation" value="false" />
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_FIELDS,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="619d20fa-ade4-453a-8e3f-888d442cfcb0" name="Default Changelist" comment="" />
+      <created>1561684899500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561684899500</updated>
+      <workItem from="1561684904070" duration="2091000" />
+      <workItem from="1561687041623" duration="2838000" />
+      <workItem from="1561773224034" duration="10101000" />
+      <workItem from="1561947607222" duration="6055000" />
+      <workItem from="1561975752594" duration="46000" />
+      <workItem from="1561983515433" duration="2593000" />
+      <workItem from="1562027034514" duration="6119000" />
+      <workItem from="1562118618073" duration="2212000" />
+      <workItem from="1562138003231" duration="892000" />
+      <workItem from="1562326567975" duration="72000" />
+      <workItem from="1562428284813" duration="5969000" />
+      <workItem from="1562464560894" duration="13000" />
+      <workItem from="1562508975491" duration="710000" />
+      <workItem from="1562574368761" duration="1082000" />
+      <workItem from="1562726711509" duration="748000" />
+      <workItem from="1562823914816" duration="12230000" />
+      <workItem from="1562850672362" duration="12062000" />
+      <workItem from="1562941864852" duration="3035000" />
+      <workItem from="1562944963044" duration="531000" />
+      <workItem from="1562945719558" duration="5521000" />
+      <workItem from="1562986617292" duration="1246000" />
+      <workItem from="1563006696219" duration="785000" />
+      <workItem from="1563033987128" duration="30000" />
+      <workItem from="1563121433523" duration="807000" />
+      <workItem from="1563174664549" duration="2091000" />
+      <workItem from="1563180298254" duration="926000" />
+      <workItem from="1563270550432" duration="662000" />
+      <workItem from="1563274847237" duration="1288000" />
+      <workItem from="1563555194919" duration="1214000" />
+      <workItem from="1563680224040" duration="1596000" />
+      <workItem from="1563776556784" duration="1117000" />
+      <workItem from="1563780092863" duration="1767000" />
+      <workItem from="1563783877598" duration="3000" />
+      <workItem from="1563794614664" duration="2247000" />
+      <workItem from="1563866797175" duration="5280000" />
+      <workItem from="1563950675617" duration="600000" />
+      <workItem from="1563953271449" duration="29000" />
+      <workItem from="1563953336902" duration="1491000" />
+      <workItem from="1563955450201" duration="5015000" />
+      <workItem from="1564028147649" duration="3833000" />
+      <workItem from="1564130655789" duration="13709000" />
+      <workItem from="1564206025486" duration="3769000" />
+      <workItem from="1564213694534" duration="12000" />
+      <workItem from="1564226033463" duration="130000" />
+      <workItem from="1564281493505" duration="188000" />
+      <workItem from="1564294577022" duration="452000" />
+      <workItem from="1564466368534" duration="663000" />
+      <workItem from="1564585158698" duration="1052000" />
+      <workItem from="1564669225848" duration="7877000" />
+      <workItem from="1564714204046" duration="625000" />
+      <workItem from="1564727206225" duration="979000" />
+      <workItem from="1564729723088" duration="517000" />
+      <workItem from="1564730984141" duration="88000" />
+      <workItem from="1564731215163" duration="99000" />
+      <workItem from="1564733909044" duration="102000" />
+      <workItem from="1564734037213" duration="1927000" />
+      <workItem from="1564736210809" duration="232000" />
+      <workItem from="1564736475242" duration="965000" />
+      <workItem from="1564742463737" duration="633000" />
+      <workItem from="1564743221071" duration="1119000" />
+      <workItem from="1564744380004" duration="1065000" />
+      <workItem from="1564752460549" duration="184000" />
+      <workItem from="1564753438893" duration="20000" />
+      <workItem from="1564763373050" duration="619000" />
+      <workItem from="1564800029288" duration="6000" />
+      <workItem from="1564934025107" duration="30000" />
+      <workItem from="1564968740868" duration="35000" />
+      <workItem from="1565087305975" duration="899000" />
+      <workItem from="1565095008000" duration="6426000" />
+      <workItem from="1565234980505" duration="1620000" />
+      <workItem from="1565236644223" duration="1450000" />
+      <workItem from="1565331605772" duration="619000" />
+      <workItem from="1565429784400" duration="1310000" />
+      <workItem from="1565526782231" duration="702000" />
+      <workItem from="1565705821632" duration="2865000" />
+      <workItem from="1565709986766" duration="1371000" />
+      <workItem from="1565752772274" duration="681000" />
+      <workItem from="1565886341697" duration="1455000" />
+      <workItem from="1565921185493" duration="245000" />
+      <workItem from="1565968069449" duration="698000" />
+      <workItem from="1566279793406" duration="5311000" />
+      <workItem from="1566286125636" duration="3738000" />
+      <workItem from="1566353681715" duration="3549000" />
+      <workItem from="1566701239252" duration="164000" />
+      <workItem from="1566716552447" duration="636000" />
+      <workItem from="1566818746868" duration="674000" />
+      <workItem from="1567524741722" duration="2623000" />
+      <workItem from="1567757343568" duration="15640000" />
+      <workItem from="1567821952891" duration="14274000" />
+      <workItem from="1567923319873" duration="6362000" />
+      <workItem from="1568088698045" duration="7843000" />
+      <workItem from="1568097902578" duration="2013000" />
+      <workItem from="1568109198388" duration="2714000" />
+      <workItem from="1568122083294" duration="75000" />
+      <workItem from="1568192301989" duration="18638000" />
+      <workItem from="1568214022512" duration="329000" />
+      <workItem from="1568246572189" duration="7909000" />
+      <workItem from="1568347617951" duration="8894000" />
+      <workItem from="1568465533242" duration="906000" />
+      <workItem from="1568520586877" duration="21668000" />
+      <workItem from="1568543082143" duration="831000" />
+      <workItem from="1568605758095" duration="2812000" />
+      <workItem from="1568620840367" duration="16454000" />
+      <workItem from="1568694053579" duration="15256000" />
+      <workItem from="1568808620638" duration="7668000" />
+      <workItem from="1568865895991" duration="4421000" />
+      <workItem from="1568882398507" duration="720000" />
+      <workItem from="1568904786332" duration="649000" />
+      <workItem from="1568952084415" duration="11864000" />
+      <workItem from="1568972321422" duration="669000" />
+      <workItem from="1568980247068" duration="662000" />
+      <workItem from="1568981283410" duration="19000" />
+      <workItem from="1568981311017" duration="2000" />
+      <workItem from="1568981322888" duration="13862000" />
+      <workItem from="1568995449723" duration="737000" />
+      <workItem from="1569028577859" duration="6323000" />
+      <workItem from="1569138648226" duration="7064000" />
+      <workItem from="1569204259223" duration="13852000" />
+      <workItem from="1569226289687" duration="248000" />
+      <workItem from="1569226979861" duration="3191000" />
+      <workItem from="1569291316805" duration="7140000" />
+      <workItem from="1569300318889" duration="2199000" />
+      <workItem from="1569385957542" duration="2375000" />
+      <workItem from="1569417247300" duration="4670000" />
+      <workItem from="1569464619464" duration="1099000" />
+      <workItem from="1569488540203" duration="1688000" />
+      <workItem from="1569562310279" duration="1801000" />
+      <workItem from="1569593944595" duration="1074000" />
+      <workItem from="1569638804965" duration="375000" />
+      <workItem from="1569652160543" duration="13508000" />
+      <workItem from="1569740767687" duration="3863000" />
+      <workItem from="1569755522972" duration="1261000" />
+      <workItem from="1569816678385" duration="1389000" />
+      <workItem from="1569822298591" duration="674000" />
+      <workItem from="1569945049322" duration="1121000" />
+      <workItem from="1569947454719" duration="1239000" />
+      <workItem from="1569997965786" duration="69000" />
+      <workItem from="1569999089591" duration="2935000" />
+      <workItem from="1570006072025" duration="531000" />
+      <workItem from="1570097053035" duration="179000" />
+      <workItem from="1570098422372" duration="6000" />
+      <workItem from="1570099358568" duration="995000" />
+      <workItem from="1570102763609" duration="5109000" />
+      <workItem from="1570120923732" duration="3553000" />
+      <workItem from="1570175326759" duration="654000" />
+      <workItem from="1570195954195" duration="29000" />
+      <workItem from="1570204798103" duration="2914000" />
+      <workItem from="1570375953816" duration="4201000" />
+      <workItem from="1570430230905" duration="5843000" />
+      <workItem from="1570436309749" duration="2628000" />
+      <workItem from="1570440614974" duration="1580000" />
+      <workItem from="1570449209836" duration="396000" />
+      <workItem from="1570496747515" duration="9000" />
+      <workItem from="1570592359782" duration="875000" />
+      <workItem from="1570612104974" duration="69000" />
+      <workItem from="1570680971933" duration="1308000" />
+      <workItem from="1570843326079" duration="836000" />
+      <workItem from="1570851305897" duration="2017000" />
+      <workItem from="1570864369059" duration="9000" />
+      <workItem from="1570879247824" duration="4267000" />
+      <workItem from="1570971909494" duration="229000" />
+      <workItem from="1570972267620" duration="85000" />
+      <workItem from="1570975009496" duration="2242000" />
+      <workItem from="1571054124058" duration="523000" />
+      <workItem from="1571064345208" duration="10000" />
+      <workItem from="1571104486126" duration="1616000" />
+      <workItem from="1571118047124" duration="564000" />
+      <workItem from="1571119802111" duration="723000" />
+      <workItem from="1571311352645" duration="3112000" />
+      <workItem from="1571816167349" duration="9353000" />
+      <workItem from="1571882372802" duration="9000" />
+      <workItem from="1571882912870" duration="285000" />
+      <workItem from="1571890471246" duration="1061000" />
+      <workItem from="1571906681621" duration="1472000" />
+      <workItem from="1571997653299" duration="3691000" />
+      <workItem from="1572087545462" duration="4800000" />
+      <workItem from="1572144303393" duration="5058000" />
+      <workItem from="1572157292177" duration="108000" />
+      <workItem from="1572157452930" duration="14696000" />
+      <workItem from="1572248626976" duration="5558000" />
+      <workItem from="1572264116347" duration="6758000" />
+      <workItem from="1572331565233" duration="2275000" />
+      <workItem from="1572407604754" duration="6000" />
+      <workItem from="1572409073775" duration="2227000" />
+      <workItem from="1572424493093" duration="487000" />
+      <workItem from="1572572688564" duration="570000" />
+      <workItem from="1572594950425" duration="11000" />
+      <workItem from="1572595769492" duration="33000" />
+      <workItem from="1572595820598" duration="3274000" />
+      <workItem from="1572599146131" duration="7383000" />
+      <workItem from="1572671222954" duration="20344000" />
+      <workItem from="1572750472133" duration="693000" />
+      <workItem from="1572751280686" duration="1698000" />
+      <workItem from="1572854235093" duration="599000" />
+      <workItem from="1572863189398" duration="3331000" />
+      <workItem from="1572868176544" duration="7414000" />
+      <workItem from="1572875973898" duration="1965000" />
+      <workItem from="1572878292309" duration="413000" />
+      <workItem from="1572927063796" duration="17562000" />
+      <workItem from="1572952298319" duration="8455000" />
+      <workItem from="1573027078465" duration="3321000" />
+      <workItem from="1573098621275" duration="4139000" />
+      <workItem from="1573133828896" duration="918000" />
+      <workItem from="1573136196522" duration="1000" />
+      <workItem from="1573186594215" duration="4319000" />
+      <workItem from="1573200143236" duration="1100000" />
+      <workItem from="1573215762769" duration="6639000" />
+      <workItem from="1573277228182" duration="1548000" />
+      <workItem from="1573287544104" duration="648000" />
+      <workItem from="1573288247700" duration="1486000" />
+      <workItem from="1573312047116" duration="628000" />
+      <workItem from="1573317460858" duration="834000" />
+      <workItem from="1573361128650" duration="4674000" />
+      <workItem from="1573383579600" duration="4288000" />
+      <workItem from="1573456931733" duration="33000" />
+      <workItem from="1573462668367" duration="7529000" />
+      <workItem from="1573522608730" duration="14251000" />
+      <workItem from="1573557472395" duration="1000" />
+      <workItem from="1573558005764" duration="3069000" />
+      <workItem from="1573614328022" duration="622000" />
+      <workItem from="1573617050628" duration="342000" />
+      <workItem from="1573634621937" duration="629000" />
+      <workItem from="1573645721539" duration="1647000" />
+      <workItem from="1573716915306" duration="7200000" />
+      <workItem from="1573741453506" duration="288000" />
+      <workItem from="1573741747829" duration="1685000" />
+      <workItem from="1573835805460" duration="1334000" />
+      <workItem from="1573879880670" duration="2439000" />
+      <workItem from="1573901606060" duration="1755000" />
+      <workItem from="1574064597595" duration="1211000" />
+      <workItem from="1574066097581" duration="883000" />
+      <workItem from="1574156449930" duration="1832000" />
+      <workItem from="1574174281620" duration="1277000" />
+      <workItem from="1574220100442" duration="1471000" />
+      <workItem from="1574239313467" duration="11149000" />
+      <workItem from="1574301451174" duration="864000" />
+      <workItem from="1574430179591" duration="932000" />
+      <workItem from="1574435963060" duration="49000" />
+      <workItem from="1574501305099" duration="306000" />
+      <workItem from="1574501791918" duration="1029000" />
+      <workItem from="1574509370517" duration="1241000" />
+      <workItem from="1574512206614" duration="1446000" />
+      <workItem from="1574514871270" duration="1472000" />
+      <workItem from="1574518776958" duration="1039000" />
+      <workItem from="1574520442139" duration="2376000" />
+      <workItem from="1574562954583" duration="626000" />
+      <workItem from="1574589930062" duration="67000" />
+      <workItem from="1574658467435" duration="458000" />
+      <workItem from="1574760783462" duration="43000" />
+      <workItem from="1574778860084" duration="1729000" />
+      <workItem from="1574816464754" duration="10035000" />
+      <workItem from="1574843378186" duration="5707000" />
+      <workItem from="1574863288915" duration="3243000" />
+      <workItem from="1574910542058" duration="10089000" />
+      <workItem from="1574940620504" duration="658000" />
+      <workItem from="1574942989219" duration="1391000" />
+      <workItem from="1574995694660" duration="21488000" />
+      <workItem from="1575037382398" duration="1025000" />
+      <workItem from="1575115234512" duration="8150000" />
+      <workItem from="1575167229515" duration="1842000" />
+      <workItem from="1575180792306" duration="82000" />
+      <workItem from="1575181814153" duration="800000" />
+      <workItem from="1575208934603" duration="2310000" />
+      <workItem from="1575260053295" duration="514000" />
+      <workItem from="1575268655439" duration="2996000" />
+      <workItem from="1575341846436" duration="1403000" />
+      <workItem from="1575350537405" duration="496000" />
+      <workItem from="1575352785057" duration="608000" />
+      <workItem from="1575381841151" duration="24000" />
+      <workItem from="1575383382302" duration="1566000" />
+      <workItem from="1575433138913" duration="2984000" />
+      <workItem from="1575447146902" duration="21520000" />
+      <workItem from="1575513100031" duration="11488000" />
+      <workItem from="1575552217591" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Demo_test - 2019.12.05 at 11h 33m 11s.xml">
+      <configuration name="Demo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test - 2019.12.05 at 11h 34m 33s.xml">
+      <configuration name="Demo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test - 2019.12.05 at 11h 50m 03s.xml">
+      <configuration name="Demo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test - 2019.12.05 at 11h 50m 50s.xml">
+      <configuration name="Demo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test - 2019.12.05 at 11h 51m 36s.xml">
+      <configuration name="Demo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test - 2019.12.05 at 11h 55m 28s.xml">
+      <configuration name="Demo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test - 2019.12.05 at 12h 53m 28s.xml">
+      <configuration name="Demo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test - 2019.12.05 at 12h 58m 46s.xml">
+      <configuration name="Demo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test - 2019.12.05 at 12h 59m 49s.xml">
+      <configuration name="Demo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_test - 2019.12.05 at 13h 35m 31s.xml">
+      <configuration name="Demo.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="842122000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="164" y="224" width="996" height="700" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.22077923" side_tool="true" weight="0.240778" />
+      <window_info id="Web" order="5" sideWeight="0.31964287" side_tool="true" weight="0.22453083" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.77922076" visible="true" weight="0.30309498" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.23184358" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6411804" weight="0.061452515" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6183769" weight="0.25418994" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32960895" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49933067" weight="0.07670851" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49933067" weight="0.1424581" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.38162306" side_tool="true" weight="0.35055867" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49732262" weight="0.09357542" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32914925" />
+      <window_info anchor="bottom" id="Spring" order="14" sideWeight="0.4986613" weight="0.10335196" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" sideWeight="0.49933067" weight="0.3044693" />
+      <window_info anchor="bottom" id="Thumbnails" order="16" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24949698" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.4594232" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3286385" />
+      <window_info anchor="right" id="Maven" order="8" sideWeight="0.53195876" weight="0.14889336" />
+      <window_info anchor="right" id="Structure" order="9" sideWeight="0.20856611" weight="0.20590208" />
+      <window_info anchor="right" id="Maven-2 Build" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" weight="0.32908848" />
+      <window_info anchor="right" id="ASMPlugin" order="12" weight="0.27095908" />
+      <window_info anchor="right" id="jclasslib" order="13" weight="0.5620389" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="14" sideWeight="0.7914339" side_tool="true" weight="0.65348524" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.78145695" weight="0.40234792" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.21854305" side_tool="true" weight="0.18175721" />
+      <window_info id="Web" order="6" sideWeight="0.31964287" side_tool="true" weight="0.22453083" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.23184358" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6411804" visible="true" weight="0.37745097" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6183769" weight="0.33798882" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32960895" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49933067" weight="0.07670851" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49933067" weight="0.3282123" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.38162306" side_tool="true" weight="0.35055867" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49732262" weight="0.36731842" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32914925" />
+      <window_info anchor="bottom" id="Spring" order="14" sideWeight="0.4986613" weight="0.10335196" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" sideWeight="0.49933067" weight="0.3044693" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.4594232" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32908848" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven" order="8" sideWeight="0.53195876" weight="0.14889336" />
+      <window_info anchor="right" id="Structure" order="9" sideWeight="0.20856611" weight="0.20643431" />
+      <window_info anchor="right" id="Maven-2 Build" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" weight="0.32908848" />
+      <window_info anchor="right" id="ASMPlugin" order="12" weight="0.27095908" />
+      <window_info anchor="right" id="jclasslib" order="13" weight="0.5620389" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="14" sideWeight="0.7914339" side_tool="true" weight="0.54624665" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/PriorityBlockingQueue.java</url>
+          <line>548</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.2.RELEASE/spring-webmvc-5.0.2.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java</url>
+          <line>888</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/cloneObj/TestDemo.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_221/jre/lib/rt.jar!/sun/nio/ch/IOUtil.class</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/java-nio/src/main/java/com/nio/start/OpenChannelTest02.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-template/src/main/java/com/anthony/core/LogAspect.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_221/jre/lib/rt.jar!/sun/nio/ch/FileChannelImpl.class</url>
+          <line>177</line>
+          <properties class="sun.nio.ch.FileChannelImpl">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/JavaSeBasics/src/main/java/com/javase/autobox_and_unbox/TestInteger.java</url>
+          <line>63</line>
+          <properties class="com.javase.autobox_and_unbox.P" method="compareTo">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="lmap" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>lmap</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>water - (now - refreshTime) * rate</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>now - refreshTime</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arr.length - 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>root</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>head</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>next</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>newHead</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>head == null || head.next == null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>max</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="4145" column="58" lean-forward="true" selection-start-line="4145" selection-start-column="58" selection-end-line="4145" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="127" column="27" lean-forward="true" selection-start-line="127" selection-start-column="27" selection-end-line="127" selection-end-column="27" />
+          <folding>
+            <element signature="e#3914#3915#0" expanded="true" />
+            <element signature="e#3960#3961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="584" selection-start-line="584" selection-end-line="584" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/LinkedHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="152" column="28" lean-forward="true" selection-start-line="152" selection-start-column="28" selection-end-line="152" selection-end-column="28" />
+          <folding>
+            <element signature="e#5516#5517#0" expanded="true" />
+            <element signature="e#5572#5573#0" expanded="true" />
+            <element signature="e#5949#5950#0" expanded="true" />
+            <element signature="e#5999#6000#0" expanded="true" />
+            <element signature="e#6199#6200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="135" column="24" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="254" selection-start-line="254" selection-end-line="254" />
+          <folding>
+            <element signature="e#9710#9711#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+          <folding>
+            <element signature="e#4865#4866#0" expanded="true" />
+            <element signature="e#4929#4930#0" expanded="true" />
+            <element signature="e#8112#8113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/jre/lib/rt.jar!/sun/misc/JarIndex.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="1474" selection-start-line="1474" selection-end-line="1474" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="67" column="51" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8104">
+          <caret line="238" column="14" lean-forward="true" selection-start-line="238" selection-start-column="14" selection-end-line="238" selection-end-column="14" />
+          <folding>
+            <element signature="e#8806#8807#0" expanded="true" />
+            <element signature="e#8859#8860#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243">
+          <caret line="81" column="18" lean-forward="true" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
+          <folding>
+            <element signature="e#99576#99577#0" expanded="true" />
+            <element signature="e#99611#99612#0" expanded="true" />
+            <element signature="e#175371#175372#0" expanded="true" />
+            <element signature="e#175414#175415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2521">
+          <caret line="604" lean-forward="true" selection-start-line="604" selection-end-line="604" />
+          <folding>
+            <element signature="e#0#27819#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1163">
+          <caret line="136" column="5" lean-forward="true" selection-start-line="136" selection-start-column="5" selection-end-line="136" selection-end-column="5" />
+          <folding>
+            <element signature="e#7388#7389#0" expanded="true" />
+            <element signature="e#7427#7428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/sort/HeapifySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="180" column="12" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/AbstractQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="94" column="14" lean-forward="true" selection-start-line="94" selection-start-column="14" selection-end-line="94" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="556" selection-start-line="556" selection-end-line="556" />
+          <folding>
+            <element signature="e#19103#19104#0" expanded="true" />
+            <element signature="e#19161#19162#0" expanded="true" />
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+            <element signature="e#24331#24332#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/TransferQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final.jar!/org/jboss/netty/util/internal/LinkedTransferQueue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/PriorityBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="109" column="13" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
+          <folding>
+            <element signature="e#6714#6715#0" expanded="true" />
+            <element signature="e#6757#6758#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/Delayed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <folding>
+            <element signature="e#23214#23215#0" expanded="true" />
+            <element signature="e#23241#23242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/DelayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="140" column="32" selection-start-line="140" selection-start-column="32" selection-end-line="140" selection-end-column="32" />
+          <folding>
+            <element signature="e#4069#4070#0" expanded="true" />
+            <element signature="e#4100#4101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/google/guava/guava/28.0-jre/guava-28.0-jre.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/28.0-jre/guava-28.0-jre.jar!/com/google/common/util/concurrent/RateLimiter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="89" column="15" selection-start-line="89" selection-start-column="15" selection-end-line="89" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/FunnelRateLimiter.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/28.0-jre/guava-28.0-jre-sources.jar!/com/google/common/util/concurrent/RateLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4978">
+          <caret line="295" column="20" selection-start-line="295" selection-start-column="20" selection-end-line="295" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6232">
+          <caret line="377" column="33" selection-start-line="377" selection-start-column="33" selection-end-line="377" selection-end-column="33" />
+          <folding>
+            <element signature="e#3820#3821#0" expanded="true" />
+            <element signature="e#3855#3856#0" expanded="true" />
+            <element signature="e#9697#9698#0" expanded="true" />
+            <element signature="e#9732#9733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/SynchronousQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+          <folding>
+            <element signature="e#34990#34991#0" expanded="true" />
+            <element signature="e#35017#35018#0" expanded="true" />
+            <element signature="e#35291#35292#0" expanded="true" />
+            <element signature="e#35374#35375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="252" column="15" lean-forward="true" selection-start-line="252" selection-start-column="15" selection-end-line="252" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/demo/scriptFile.scala" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/28.0-jre/guava-28.0-jre-sources.jar!/com/google/common/util/concurrent/Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3420">
+          <caret line="204" column="19" selection-start-line="204" selection-start-column="19" selection-end-line="204" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/FilterChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/CounterLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/LeakyBucketLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/GuavaRateLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/ServletRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="32" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/module/ServletResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/RollingWindowFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/demo/Bucket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/AbstractLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/limitflow/TokenBucketLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>javaee-mvc:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.13.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_221</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java-Common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

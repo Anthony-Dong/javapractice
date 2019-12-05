@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: javaee-mvc Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: 12986
+Implementation-Vendor-Id: Development-JAVA
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_221
+Main-Class: ${start-class}
+

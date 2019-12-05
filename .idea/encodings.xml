@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSeBasics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-Thread" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-arithmetic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-jvm-optimize" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-nio" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaee-mvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javase-juc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-template" charset="UTF-8" />
+  </component>
+</project>

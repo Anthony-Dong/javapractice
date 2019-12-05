@@ -14,8 +14,7 @@ public class TestFuture {
 
     public static void main(String[] args) throws Exception {
 
-        ExecutorService executor = Executors.newFixedThreadPool(10);
-
+        ExecutorService executor = Executors.newFixedThreadPool(2);
 
         Future<String> future = executor.submit(new Callable<String>() {
             @Override

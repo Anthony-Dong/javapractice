@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java-aop" />
+        <module name="java-arithmetic" />
+        <module name="Java-Common" />
+        <module name="java-jvm-optimize" />
+        <module name="java-nio" />
+        <module name="JAVA-SPI" />
+        <module name="java-Thread" />
+        <module name="javaee-mvc" />
+        <module name="javase-juc" />
+        <module name="JavaSeBasics" />
+        <module name="springboot-template" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="javaee-study" target="1.8" />
+      <module name="spring-framework" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="JavaSeBasics" options="-parameters" />
+      <module name="java-Thread" options="-parameters" />
+      <module name="java-aop" options="-parameters" />
+      <module name="java-arithmetic" options="-parameters" />
+      <module name="java-jvm-optimize" options="-parameters" />
+      <module name="java-nio" options="-parameters" />
+      <module name="javaee-mvc" options="-parameters" />
+      <module name="javaee-study" options="-parameters" />
+      <module name="javase-juc" options="-parameters" />
+      <module name="spring-framework" options="-parameters" />
+      <module name="springboot-template" options="-parameters" />
+    </option>
+  </component>
+</project>

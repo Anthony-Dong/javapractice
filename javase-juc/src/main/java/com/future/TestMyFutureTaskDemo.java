@@ -16,26 +16,35 @@ public class TestMyFutureTaskDemo {
 
         ExecutorService executor = Executors.newFixedThreadPool(3);
 
-        FutureTask<String> task = new FutureTask<>(new Callable<String>() {
-            @Override
-            public String call() throws Exception {
-                return "JDK 实现的 FutureTask";
-            }
-        });
+        long start = System.currentTimeMillis();
 
         MyFutureTask<Object> myTask = new MyFutureTask<>(new Callable<Object>() {
             @Override
             public Object call() throws Exception {
-                return "我自己 实现的 FutureTask";
+
+                TimeUnit.MILLISECONDS.sleep(3000);
+                return Thread.currentThread().getName();
             }
         });
 
-        executor.execute(task);
         executor.execute(myTask);
 
+        MyFutureTask<Object> myTask2 = new MyFutureTask<>(new Callable<Object>() {
+            @Override
+            public Object call() throws Exception {
 
-        System.out.println("task = " + task.get());
-        System.out.println("myTask.get() = " + myTask.get());
+                TimeUnit.MILLISECONDS.sleep(3000);
+                return Thread.currentThread().getName();
+            }
+        });
+
+        executor.execute(myTask2);
+
+
+        System.out.println(myTask.get());
+        System.out.println(myTask2.get());
+
+        System.out.println(System.currentTimeMillis() - start);
 
         executor.shutdown();
     }

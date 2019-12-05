@@ -56,14 +56,8 @@ public class NettyClient {
             System.out.println("channel is activated.");
 
             final ChannelFuture f = ctx.writeAndFlush(Unpooled.copiedBuffer("HelloNetty".getBytes()));
-            f.addListener(new ChannelFutureListener() {
-                @Override
-                public void operationComplete(ChannelFuture future) throws Exception {
-                    System.out.println("msg send!");
-                    //ctx.close();
-                }
-            });
 
+            f.addListener((ChannelFutureListener) future -> System.out.println("msg send!"));
 
         }
 

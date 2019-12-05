@@ -23,9 +23,6 @@ public class TestFutureTask {
 
 
 
-
-
-
         FutureTask<String> task = new FutureTask<>(new Callable<String>() {
             @Override
             public String call() throws Exception {

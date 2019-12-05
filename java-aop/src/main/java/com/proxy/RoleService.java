@@ -11,5 +11,5 @@ package com.proxy;
 
 public interface RoleService {
 
-    Boolean hasAuth(String name);
+    String hasAuth(String name);
 }

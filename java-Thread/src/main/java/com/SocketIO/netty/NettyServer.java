@@ -35,7 +35,12 @@ public class NettyServer {
                 .childHandler(new ChannelInitializer<SocketChannel>() {
                     @Override
                     protected void initChannel(SocketChannel socketChannel) throws Exception {
+
+
                         socketChannel.pipeline().addLast(new Handler());
+
+
+
                     }
                 });
 
@@ -55,17 +60,13 @@ public class NettyServer {
     class Handler extends ChannelInboundHandlerAdapter {
         @Override
         public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
-//            super.channelRead(ctx, msg);
-
             System.out.println(msg.toString());
-
             ctx.writeAndFlush(msg);
             ctx.close();
         }
 
         @Override
         public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) throws Exception {
-//            super.exceptionCaught(ctx, cause);
 
             cause.printStackTrace();
             ctx.close();

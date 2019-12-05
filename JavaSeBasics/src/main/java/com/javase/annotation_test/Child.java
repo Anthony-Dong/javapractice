@@ -14,6 +14,8 @@ import java.lang.annotation.*;
 @Documented
 public @interface Child {
 
+    String value() default "";
 
 
+    int get() default 1;
 }

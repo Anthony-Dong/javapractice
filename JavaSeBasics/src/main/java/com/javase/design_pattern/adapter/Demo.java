@@ -1,7 +1,7 @@
 package com.javase.design_pattern.adapter;
 
 /**
- * demo
+ * com.demo
  *
  * @date:2019/9/7 11:15
  * @author: <a href='mailto:fanhaodong516@qq.com'>Anthony</a>

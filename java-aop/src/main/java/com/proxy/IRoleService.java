@@ -11,7 +11,7 @@ package com.proxy;
 
 public class IRoleService implements RoleService {
     @Override
-    public Boolean hasAuth(String name) {
+    public String hasAuth(String name) {
         return null;
     }
 }
